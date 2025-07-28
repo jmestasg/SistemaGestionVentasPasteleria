@@ -78,6 +78,7 @@ sistema_pasteleria/
 │   │   ├── ventas_cliente.php
 │   │   ├── ventas_producto.php
 │   │   └── ranking_ventas.php
+``` 
 
 
 Capturas
@@ -120,7 +121,7 @@ https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/1d42843d1236a1e5
    - Detalle de venta por producto  
      ![Ventas por producto](./capturas/ventas_producto.png)
    - Ranking de ventas  
-     ![Ranking de ventas](./capturas/ventas_ranking.png)
+     ![Ranking de ventas](capturas/ventas_ranking.png)
 
 6. **Gestión de Proveedores**
    - Lista de proveedores  
