@@ -172,7 +172,7 @@ Lista de Integrantes:
 - Jefe de Proyecto:
  Mestas Gamarra Jennifer Diana
 - Programadores:
- Maquera García Diana Fernanda
+ Maquera García Diana Fernanda   
  Morocco Quispe Sergio Daniel 
 - Documentación y Prueba:
  Torreblanca Huamani Jimena Anyela
