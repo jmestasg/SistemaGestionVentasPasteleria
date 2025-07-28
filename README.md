@@ -177,4 +177,22 @@ Lista de Integrantes:
 - Documentación y Prueba:
  Torreblanca Huamani Jimena Anyela
 
+## Link de la Página
+
+https://pasteleriadeliciosa.rf.gd/ 
+
+Las credenciales:
+
+- Usuario: jimena    
+Contraseña: 12345
+
+- Usuario: diana    
+Contraseña: 12345
+
+- Usuario: sergio    
+Contraseña: 12345
+
+- Usuario: jennifer    
+Contraseña: 12345
+
 ---
