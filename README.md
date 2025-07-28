@@ -1,8 +1,9 @@
-                # Sistema de Gestión de Ventas - Pastelería Deliciosa
-
+# Sistema de Gestión de Ventas - Pastelería Deliciosa
+                
 Este proyecto es un sistema básico de gestión de ventas desarrollado en PHP con Bootstrap. Permite controlar clientes, productos, proveedores, ventas y categorías, pensado para una pastelería pequeña.
+Incluye una interfaz intuitiva y un backend funcional que permite optimizar los procesos administrativos del negocio.
 
-Funcionalidades principales
+## Funcionalidades principales
 
 - Login de usuarios
 - Panel principal o Dashboard
@@ -14,15 +15,19 @@ Funcionalidades principales
 - Ranking de ventas
 - Categorías de productos personalizadas
 
-Tecnologías usadas
+## Tecnologías usadas
 
-- PHP
-- MySQL (XAMPP)
-- Bootstrap 5
-- HTML5 + CSS3
-- JavaScript (para algunas validaciones)
+- PHP (programación del lado del servidor)
 
-Estructura del Proyecto
+- MySQL – Base de datos local (XAMPP)
+
+- Bootstrap 5 – Estilo visual y diseño responsive
+
+- HTML5 + CSS3 – Estructura y presentación
+
+- JavaScript – Validaciones básicas en formularios
+  
+## Estructura del Proyecto
 
 ```text
 sistema_pasteleria/
@@ -81,14 +86,14 @@ sistema_pasteleria/
 ``` 
 
 
-Capturas
+## Capturas
 
-1. Login del sistema
+1. **Login del sistema**
   <img width="1366" height="720" alt="login" src="https://github.com/user-attachments/assets/23b9f4ad-a22e-446f-a215-b245e04c0a8a" />
 
 
 
-2. Dashboard principal tras iniciar sesión
+2. **Dashboard principal tras iniciar sesión**
 https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/1d42843d1236a1e5c45935b26ad4a2934d96297d/capturas/dashboard.png
 
 3. **Gestión de Clientes**
@@ -145,10 +150,19 @@ https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/1d42843d1236a1e5
 
 
 ---
+## Documentación del Proyecto
+Durante el desarrollo se aplicó el patrón MVC, separando responsabilidades entre Modelos, Vistas y Controladores. Se incluyeron comentarios descriptivos en los archivos principales de cada módulo para facilitar la comprensión del flujo y mantenimiento futuro.
+
+Cada modelo implementa funciones básicas para conexión, consultas y operaciones CRUD.
+
+Los controladores gestionan la lógica entre las vistas y los modelos.
+
+Las vistas están estructuradas por módulo y se diseñaron con Bootstrap para una navegación clara.
 
 ## Autores
 
 Este sistema fue desarrollado como parte del curso de Desarrollo de Aplicaciones BackEnd, utilizando herramientas modernas para la web.
+
 Lista de Integrantes:
 - Jefe de Proyecto:
  Mestas Gamarra Jennifer Diana
