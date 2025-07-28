@@ -149,9 +149,9 @@ sistema_pasteleria/
    - Detalle de venta por fecha  
      ![Ventas por fecha](./capturas/ventas_fecha.png)
    - Detalle de venta por cliente  
-     ![Ventas por cliente](./capturas/ventas_cliente.png)
+     ![Ventas por cliente](./capturas/ventas_clientes.png)
    - Detalle de venta por producto  
-     ![Ventas por producto](./capturas/ventas_producto.png)
+     ![Ventas por producto](./capturas/ventas_productos.png)
    - Ranking de ventas  
      ![Ranking de ventas](capturas/ventas_ranking.png)
 ---
