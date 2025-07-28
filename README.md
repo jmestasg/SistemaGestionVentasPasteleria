@@ -84,7 +84,8 @@ Capturas
 
 1. Login del sistema
 
-     ![Login](https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/a38c623e953e72c760a125d81f632a3fc4242339/capturas/login.PNG)
+     ![Login](https://raw.githubusercontent.com/jmestasg/SistemaGestionVentasPasteleria/main/capturas/login.PNG
+)
 
 2. Dashboard principal tras iniciar sesión
 https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/1d42843d1236a1e5c45935b26ad4a2934d96297d/capturas/dashboard.png
