@@ -94,11 +94,11 @@ sistema_pasteleria/
 
 
 2. **Dashboard principal tras iniciar sesión**
-https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/1d42843d1236a1e5c45935b26ad4a2934d96297d/capturas/dashboard.png
+   ![Dashboard](https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/d1120c6959df17a719caeb158d461102ff21c2f0/capturas/dashboard.png)
 
 3. **Gestión de Clientes**
    - Lista de clientes  
-     ![Lista de clientes](./capturas/clientes_index.png)
+     ![Lista de clientes](capturas/lista_clientes.png)
    - Formulario para agregar cliente  
      ![Crear cliente](./capturas/clientes_crear.png)
    - Formulario para editar cliente  
@@ -121,12 +121,7 @@ https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/1d42843d1236a1e5
      ![Registrar venta](./capturas/ventas_registrar.png)
    - Lista de ventas  
      ![Listado de ventas](./capturas/ventas_listado.png)
-   - Detalle de venta por cliente  
-     ![Ventas por cliente](./capturas/ventas_cliente.png)
-   - Detalle de venta por producto  
-     ![Ventas por producto](./capturas/ventas_producto.png)
-   - Ranking de ventas  
-     ![Ranking de ventas](capturas/ventas_ranking.png)
+   
 
 6. **Gestión de Proveedores**
    - Lista de proveedores  
@@ -148,7 +143,17 @@ https://github.com/jmestasg/SistemaGestionVentasPasteleria/blob/1d42843d1236a1e5
    - Eliminar categoría  
      ![Eliminar categoría](./capturas/categorias_eliminar.png)
 
-
+8. **Reportes**
+   - Detalle de stock de productos  
+     ![Stock](./capturas/stock.png)
+   - Detalle de venta por fecha  
+     ![Ventas por fecha](./capturas/ventas_fecha.png)
+   - Detalle de venta por cliente  
+     ![Ventas por cliente](./capturas/ventas_cliente.png)
+   - Detalle de venta por producto  
+     ![Ventas por producto](./capturas/ventas_producto.png)
+   - Ranking de ventas  
+     ![Ranking de ventas](capturas/ventas_ranking.png)
 ---
 ## Documentación del Proyecto
 Durante el desarrollo se aplicó el patrón MVC, separando responsabilidades entre Modelos, Vistas y Controladores. Se incluyeron comentarios descriptivos en los archivos principales de cada módulo para facilitar la comprensión del flujo y mantenimiento futuro.
