@@ -83,7 +83,7 @@ sistema_pasteleria/
 Capturas
 
 1. **Login del sistema**
-   ![Login del sistema](./capturas/login.png)
+<img width="1366" height="720" alt="login" src="https://github.com/user-attachments/assets/486fa324-9904-46b7-9771-06746430a421" />
 
 2. **Dashboard principal tras iniciar sesión**
    ![Dashboard principal](./capturas/dashboard.png)
@@ -143,8 +143,16 @@ Capturas
 
 ---
 
-## Autor
+## Autores
 
 Este sistema fue desarrollado como parte del curso de Desarrollo de Aplicaciones BackEnd, utilizando herramientas modernas para la web.
+Lista de Integrantes:
+- Jefe de Proyecto:
+ Mestas Gamarra Jennifer Diana
+- Programadores:
+ Maquera García Diana Fernanda
+ Morocco Quispe Sergio Daniel 
+- Documentación y Prueba:
+ Torreblanca Huamani Jimena Anyela
 
 ---
